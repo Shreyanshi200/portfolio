@@ -203,24 +203,24 @@ export const Bio = {
       ],
       doc: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbb16lbZWbIsmYd970NJx1vmEeSU1RtaFVonrUPUlZtc3GkS7ga8bogK9cMajJc-QuT0y2o0KCCBnkADavf3vp617zT82OE8gI=s1600-rw-v1",
     },
-    {
-      id: 0,
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvQ-TnKRukUCbIigsmRyv9agMwHqIt618YaYqHwLcCw&s",
-      role: "Web Development and designing Intern",
-      company: "The Sparks Foundation",
-      date: "May 2024 - Present",
-      desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-      skills: [
-        "ReactJS",
-        "Redux",
-        "NodeJs",
-        "Material UI",
-        "HTML",
-        "CSS",
-        "JavaScript",
-      ],
-      doc: "https://links-truecertificates.s3.ap-south-1.amazonaws.com/published/2024-29-25/MZ4U5674LV.png",
-    },
+    // {
+    //   id: 0,
+    //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvQ-TnKRukUCbIigsmRyv9agMwHqIt618YaYqHwLcCw&s",
+    //   role: "Web Development and designing Intern",
+    //   company: "The Sparks Foundation",
+    //   date: "May 2024 - Present",
+    //   desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
+    //   skills: [
+    //     "ReactJS",
+    //     "Redux",
+    //     "NodeJs",
+    //     "Material UI",
+    //     "HTML",
+    //     "CSS",
+    //     "JavaScript",
+    //   ],
+    //   doc: "https://links-truecertificates.s3.ap-south-1.amazonaws.com/published/2024-29-25/MZ4U5674LV.png",
+    // },
     
   ];
   
