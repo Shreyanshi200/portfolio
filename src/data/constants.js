@@ -203,24 +203,7 @@ export const Bio = {
       ],
       doc: "https://drive.google.com/file/d/1_aJxy9G3Gx-HCFQH2VIWFebDxB5EB9tm/view?usp=sharing",
     },
-    // {
-    //   id: 0,
-    //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvQ-TnKRukUCbIigsmRyv9agMwHqIt618YaYqHwLcCw&s",
-    //   role: "Web Development and designing Intern",
-    //   company: "The Sparks Foundation",
-    //   date: "May 2024 - Present",
-    //   desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    //   skills: [
-    //     "ReactJS",
-    //     "Redux",
-    //     "NodeJs",
-    //     "Material UI",
-    //     "HTML",
-    //     "CSS",
-    //     "JavaScript",
-    //   ],
-    //   doc: "https://links-truecertificates.s3.ap-south-1.amazonaws.com/published/2024-29-25/MZ4U5674LV.png",
-    // },
+    
     
   ];
   
