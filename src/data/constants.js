@@ -201,7 +201,7 @@ export const Bio = {
         "Rapid API",
         "Socket.io"
       ],
-      doc: "https://lh3.googleusercontent.com/drive-viewer/AKGpihbb16lbZWbIsmYd970NJx1vmEeSU1RtaFVonrUPUlZtc3GkS7ga8bogK9cMajJc-QuT0y2o0KCCBnkADavf3vp617zT82OE8gI=s1600-rw-v1",
+      doc: "https://drive.google.com/file/d/1_aJxy9G3Gx-HCFQH2VIWFebDxB5EB9tm/view?usp=sharing",
     },
     // {
     //   id: 0,
