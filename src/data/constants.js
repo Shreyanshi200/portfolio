@@ -267,7 +267,7 @@ export const Bio = {
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux toolkit","Material UI"],
       category: "web app",
       github: "https://github.com/Shreyanshi200/Memories-Social_Media_Application",
-      webapp:"https://drive.google.com/file/d/1FtZWvA-DQc6sGAE_9BL6jl5UCTW1G3p9/view?usp=drive_link.",
+      webapp:"https://memories-social-media-application.vercel.app/posts",
     },
     {
       id: 1,
