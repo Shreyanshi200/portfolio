@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-
+import certificate from '../../images/certificate.png'
 const Document = styled.img`
     display: none;
     height: 70px;
@@ -176,7 +176,8 @@ const ExperienceCard = ({ experience }) => {
             </Description>
             {experience.doc &&
                 <a href={experience.doc} target="new">
-                    <Document src={experience.doc} />
+                    <Document src={certificate} alt="certificate" />
+                    {/* <Document src={experience.doc} /> */}
                 </a>
             }
         </Card>

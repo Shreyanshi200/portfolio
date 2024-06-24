@@ -213,7 +213,7 @@ export const Bio = {
       img: "https://upload.wikimedia.org/wikipedia/en/3/36/NIT_Andhra_Pradesh.png",
       school: "National Institute of Technology, Andhra Pradesh",
       date: "Aug 2020 - May 2024",
-      grade: "8.11 CGPA",
+      grade: "8.08 CGPA",
       desc: "I completed my Bachelor's degree in Electronics and Communication Engineering at National Institute of Technology, Andhra Pradesh. I have a CGPA of 8.11.",
       degree: "Bachelor of Technology - BTech, Electronics and Communication Engineering",
     },
