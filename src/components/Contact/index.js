@@ -118,6 +118,9 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
+  &:hover{
+    cursor:pointer
+  }
 `
 
 
@@ -156,7 +159,7 @@ const Contact = () => {
         </ContactForm>
         <Snackbar
           open={open}
-          autoHideDuration={6000}
+          autoHideDuration={8000}
           onClose={()=>setOpen(false)}
           message="Email sent successfully!"
           severity="success"
